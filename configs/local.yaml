@@ -1,0 +1,3 @@
+LOG_LEVEL: "debug"
+GIN_MODE: "debug"
+CSV_FILE_PATH: "./resources/events.csv"
